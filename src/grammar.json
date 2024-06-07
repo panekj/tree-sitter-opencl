@@ -6951,28 +6951,5 @@
     "_field_declarator",
     "_type_declarator",
     "_abstract_declarator"
-  ],
-  "PREC": {
-    "PAREN_DECLARATOR": -10,
-    "ASSIGNMENT": -1,
-    "CONDITIONAL": -2,
-    "DEFAULT": 0,
-    "LOGICAL_OR": 1,
-    "LOGICAL_AND": 2,
-    "INCLUSIVE_OR": 3,
-    "EXCLUSIVE_OR": 4,
-    "BITWISE_AND": 5,
-    "EQUAL": 6,
-    "RELATIONAL": 7,
-    "SIZEOF": 8,
-    "SHIFT": 9,
-    "ADD": 10,
-    "MULTIPLY": 11,
-    "CAST": 12,
-    "UNARY": 13,
-    "CALL": 14,
-    "FIELD": 15,
-    "SUBSCRIPT": 16
-  }
+  ]
 }
-
